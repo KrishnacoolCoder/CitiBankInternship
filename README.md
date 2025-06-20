@@ -1,4 +1,4 @@
-# CitiBankInternship
+# Derivatives Pricing and Market Risk Modeling – A Citi MQA Simulation
 
 Applied advanced mathematical techniques including calculus, linear algebra, and stochastic processes to model and interpret financial market behaviors and pricing mechanisms.
 <br>
